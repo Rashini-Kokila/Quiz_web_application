@@ -1,0 +1,19 @@
+
+    .f-col{
+      color: rgba(21, 27, 109, 0.87);
+      padding: 10px;
+      background-color: #D2E9D9;
+      border-radius: 5px;
+      padding: 5px;
+    }
+
+    .f-col2{
+        float: left;
+        min-width: 100px;
+        margin-top: 1rem;
+        padding: 0.8rem 1rem;
+        background-color: #d2e9d9;
+        border: 4px solid transparent;
+        cursor: pointer;
+        font-size: 16px;
+    }
